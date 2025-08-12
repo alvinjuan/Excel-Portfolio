@@ -61,8 +61,7 @@ This dashboard enables:
 ## 📸 Screenshot
 Below is a preview of the **Coffee Sales Dashboard**:
 
-![Coffee Sales Dashboard Screenshot](coffee_sales_dashboard.png)  
-*Replace `coffee_sales_dashboard.png` with the actual file name of your uploaded screenshot in the repository.*
+![Coffee Sales Dashboard Screenshot](coffee-sales-dashboard.jpeg)
 
 ---
 
