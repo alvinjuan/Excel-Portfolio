@@ -48,5 +48,5 @@ Bike_Sales_Dashboard.xlsx
 └── Dashboard         # Final interactive dashboard
 ```
 ## Screenshot
-![Bike Sales Dashboard](bike-sales-dashboard.png)
+![Bike Sales Dashboard](dashboard.png)
 
