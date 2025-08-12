@@ -59,7 +59,7 @@ This **Excel data analysis project** supports:
 ## 📸 Screenshot
 Below is a preview of the **Coffee Sales Dashboard**:
 
-![Coffee Sales Dashboard Screenshot](coffee-sales-dashboard.jpeg)
+![Coffee Sales Dashboard Screenshot](dashboard.jpeg)
 
 ---
 
